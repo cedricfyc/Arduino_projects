@@ -40,3 +40,4 @@ This repository will contain arduino projects that I have implemented. My aim is
 - Meant to be used in a team project, where after 30 s, arduino sends a boolean to another arduino to stop operation.
 - Inspirations
 	- [Using a 4 Digit & 7 Segment Display - Arduino](https://www.instructables.com/Using-a-4-digit-7-segment-display-with-arduino/)
+	- [Coding Timers and Delays in Arduino](https://www.instructables.com/Coding-Timers-and-Delays-in-Arduino/)
